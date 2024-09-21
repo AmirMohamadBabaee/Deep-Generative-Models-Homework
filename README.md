@@ -1,4 +1,4 @@
-# Deep Generative Models Homeworks
+# Deep Generative Models Course - Homework Solutions
 
 ## Introduction
 
